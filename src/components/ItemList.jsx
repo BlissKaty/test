@@ -15,7 +15,7 @@ function Item() {
     <li className="item">
       <label>
         <input type="checkbox" />
-        good mood
+        good mood hellooooooo
       </label>
     </li>
   );
